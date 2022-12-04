@@ -1,8 +1,5 @@
+# BreakingBadApp
 
-# Fourth-Week-Homework
-
-## BreakingBadApp
---
 Breaking Bad App, Breaking Bad karakterlerinin bilgilerini, repliklerini, sezon bölümlerinin bilgilerini ve bölümlerde oynayan karakterleri gösteren, dizinin IMDB sayfasının incelenebildiği bir uygulamadır.
 Uygulama, Characters, Episodes, ve IMDB page olmak üzere 3 tab'den ve bu tablere bağlı detay sayfaları ve viewlerinden oluşur.
 
